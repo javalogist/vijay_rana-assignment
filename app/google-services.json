@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1033558081354",
+    "project_id": "vivatechps",
+    "storage_bucket": "vivatechps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033558081354:android:761a0bfe3bd48783cccbb3",
+        "android_client_info": {
+          "package_name": "com.javalogist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033558081354-fvmfkbspj9qkvht4kq25hidler2k489f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCeF_NJE4QMdD4Q2pbm2f0DrSi_Mn0Dak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033558081354-fvmfkbspj9qkvht4kq25hidler2k489f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
